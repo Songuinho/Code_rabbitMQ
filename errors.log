@@ -1,0 +1,4 @@
+2024-09-17 19:33:51,138 DEBUG Connecting to MySQL
+2024-09-17 19:33:51,140 ERROR Error fetching and processing messages: module 'ssl' has no attribute 'wrap_socket'
+2024-09-19 11:07:33,797 DEBUG Connecting to MySQL
+2024-09-19 11:07:33,809 ERROR Error fetching and processing messages: module 'ssl' has no attribute 'wrap_socket'
